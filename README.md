@@ -1,2 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d_w3ds2H)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21489687)
+# Jane-the-ripper
+this program is supposed to take a hashes file of your choice and a wordlist of your and crack the md5 hash file with the wordlist
+
+## requirements
+this project requires at least **Python version 3.12 and git version 2.51**
+
+## installation
+Copy "git clone (insert repository URL)" into your preferred console and it will clone the repository into your system
+
+## examples
+when you run the code the code will look like the following: 
+what is the path to the file where you have your hashes: 
+this is where you would put the path to the hash file and then after you enter the path you will be prompted with the following: 
+what is the path to the word list file: 
+after this prompt you should be given the hashes in theirs cracked state that aligns with the matches in the wordlist
+
+## configuration
+this project does not offer any config settings
